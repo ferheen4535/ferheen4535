@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there, I’m Ferheen!<br>I'm a creative technologist blending the worlds of graphic design and software engineering. With a background in visual storytelling and a growing toolkit in JavaScript, React, and Node.js, I'm passionate about building beautiful, functional, and user-friendly web experiences.<br><br>Currently, I’m:<br><br>🎓 Learning full-stack development at Per Scholas<br><br>My goal? To create experiences that feel as good as they look.<br><br>💻 Tech I’m Working With:<br>Languages: JavaScript, HTML5, CSS3<br><br>Frameworks & Tools: React, Express, MongoDB, Node.js, Tailwind CSS, Git<br><br>Design: Adobe Creative Suite, Figma, Canva<br><br>🌱 Always learning:<br>Front-end performance and accessibility<br><br>UI/UX principles and responsive design<br><br>Cloud deployment & API integrations<br><br>📬 Let’s connect!<br>Feel free to reach out or check out my work below.
 
 
